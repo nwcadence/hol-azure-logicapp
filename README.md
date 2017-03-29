@@ -1,7 +1,7 @@
 # Azure Logic Apps
-## Hands on Lab
+## Hands On Lab
 
-### Twitter Sentiment
+### [Twitter Sentiment](https://github.com/nwcadence/hol-azure-logicapp/tree/master/Twitter%20Sentiment)
 #### Overview
 
 This hands on lab is intended to be an introduction to Azure Logic Apps. The Logic App will monitor Tweets for keywords then pass those Tweets to an Azure Cognitive Service for text analysis. The analysis will return a sentiment score and key phrase for each Tweet. Finally, the Tweets and associated metadata will be passed to Power BI where a dashboard will be created to display the streaming data.  
