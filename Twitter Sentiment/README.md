@@ -162,3 +162,5 @@ Sentiment | Score
 11.	Choose **New dashboard** then name it “**Twitter Sentiment Dashboard**”
 12.	Click the yellow **Pin** button
 13.	View your streaming data by selecting **Twitter Sentiment Dashboard** under **Dashboards**
+
+## Don't forget to delete your resource group after completing the lab. This will ensure you are not unexpectedly charged for resources you are not using. 
